@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abilov599&label=Profile%20views&color=0e8ddd&style=flat" alt="abilov599" /> </p>
 
-- 🔭 I’m currently studying on **Code Academy CTF FrontEnd Bootcamp**
+- 🔭 I’m currently studying on **Code Academy CTF FullStack Bootcamp**
 
 - 🌱 I’m currently learning **JS,React**
 
