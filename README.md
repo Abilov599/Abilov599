@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeyhun</h1>
-<h3 align="center">A passionate frontend developer from Azerbaijan</h3>
+<h3 align="center">A passionate FullStack developer from Azerbaijan</h3>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=abilov599&label=Profile%20views&color=0e8ad8&style=flat"
