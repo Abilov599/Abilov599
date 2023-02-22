@@ -109,4 +109,3 @@
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abilov599&layout=compact)](https://github.com/Abilov599/github-readme-stats)
    
-   <img align='center' src='https://github.com/Abilov599/Abilov599/blob/output/github-contribution-grid-snake.gif' width='900"'>
