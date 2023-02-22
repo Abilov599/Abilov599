@@ -12,7 +12,7 @@
 - 💬 Ask me about **JS,React**
 - 📫 How to reach me **abilovv599@gmail.com**
 
-<span><img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/coffee.gif"/></span>
+<img align="center" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/coffee.gif"/>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -108,3 +108,5 @@
 </p>
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abilov599&layout=compact)](https://github.com/Abilov599/github-readme-stats)
+   
+   <img align='center' src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.gif' width='900"'>
