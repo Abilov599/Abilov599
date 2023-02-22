@@ -10,7 +10,8 @@
 - 🌱 I’m currently learning **JS,React**
 - 👨‍💻 All of my projects are available at [https://github.com/Abilov599/Prersonal-Projects](https://github.com/Abilov599/Prersonal-Projects) 
 - 💬 Ask me about **JS,React**
-- 📫 How to reach me **abilovv599@gmail.com**</span><span><img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/coffee.gif"/></span>
+- 📫 How to reach me **abilovv599@gmail.com**</span>
+<span><img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/coffee.gif"/></span>
 
 
 <h3 align="left">Connect with me:</h3>
