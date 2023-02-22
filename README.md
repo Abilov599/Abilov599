@@ -6,11 +6,11 @@
         alt="abilov599" />
 </p>
 
-<span>- 🔭 I successfully completed the course on [Code Academy CTF FullStack Bootcamp](https://code.edu.az/forfuture/) with a GPA of 94
+- 🔭 I successfully completed the course on [Code Academy CTF FullStack Bootcamp](https://code.edu.az/forfuture/) with a GPA of 94
 - 🌱 I’m currently learning **JS,React**
 - 👨‍💻 All of my projects are available at [https://github.com/Abilov599/Prersonal-Projects](https://github.com/Abilov599/Prersonal-Projects) 
 - 💬 Ask me about **JS,React**
-- 📫 How to reach me **abilovv599@gmail.com**</span>
+- 📫 How to reach me **abilovv599@gmail.com**
 <span><img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/coffee.gif"/></span>
 
 
