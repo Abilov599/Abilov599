@@ -104,7 +104,4 @@
     </a>
 </p>
 
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abilov599&theme=highcontrast"
-        alt="abilov599" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abilov599&layout=compact)](https://github.com/Abilov599/github-readme-stats)
