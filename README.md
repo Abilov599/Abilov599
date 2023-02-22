@@ -6,7 +6,7 @@
         alt="abilov599" />
 </p>
 
-- 🔭 I successfully completed the course with a GPA of 94 on [Code Academy CTF FullStack Bootcamp](https://code.edu.az/forfuture/)
+- 🔭 I successfully completed the course on [Code Academy CTF FullStack Bootcamp](https://code.edu.az/forfuture/) with a GPA of 94
 - 🌱 I’m currently learning **JS,React**
 - 👨‍💻 All of my projects are available at [https://github.com/Abilov599/Prersonal-Projects](https://github.com/Abilov599/Prersonal-Projects)
 - 💬 Ask me about **JS,React**
