@@ -20,7 +20,7 @@
     <a href="https://instagram.com/abilovv599" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="abilovv599" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/jeyhun-abilov-198a9025a" target="blank"><img align="center"
+    <a href="https://linkedin.com/in/abilovv599" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="jeyhun-abilov-198a9025a" height="30" width="40" /></a>
     <a href="https://www.leetcode.com/abilov599" target="blank"><img align="center"
