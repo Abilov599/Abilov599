@@ -7,9 +7,8 @@
 </p>
 
 - 🔭 I successfully completed the course on [Code Academy CTF FullStack Bootcamp](https://code.edu.az/forfuture/) with a GPA of 94
-- 🌱 I’m currently learning **JS,React**
-- 👨‍💻 All of my projects are available at [https://github.com/Abilov599/Prersonal-Projects](https://github.com/Abilov599/Prersonal-Projects) 
-- 💬 Ask me about **JS,React**
+- 👨‍💻 All of my projects are available on Github
+- 💬 Ask me about **JavaScript,React, Node js**
 - 📫 How to reach me **abilovv599@gmail.com**
 
 <img align="center" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/coffee.gif"/>
