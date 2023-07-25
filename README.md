@@ -4,8 +4,6 @@
 - 💬 Ask me about **JavaScript,React, Node js**
 - 📫 How to reach me **abilovv599@gmail.com**
 
-<img align="center" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/coffee.gif"/>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
