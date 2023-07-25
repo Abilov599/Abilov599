@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeyhun</h1>
 <h3 align="center">A passionate FullStack developer from Azerbaijan</h3>
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=abilov599&label=Profile%20views&color=0e8ad8&style=flat"
-        alt="abilov599" />
-</p>
-
-- 🔭 I successfully completed the course on [Code Academy CTF FullStack Bootcamp](https://code.edu.az/forfuture/) with a GPA of 94
-- 👨‍💻 All of my projects are available on Github
 - 💬 Ask me about **JavaScript,React, Node js**
 - 📫 How to reach me **abilovv599@gmail.com**
 
