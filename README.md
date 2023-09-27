@@ -91,6 +91,5 @@
     </a>
 </p>
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abilov599&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abilov599&layout=compact&theme=gotham&custom_title=Statistics)
    
