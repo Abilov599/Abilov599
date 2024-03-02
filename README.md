@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeyhun</h1>
-<h3 align="center">A passionate FullStack developer from Azerbaijan</h3>
+<h3 align="center">A passionate Full-Stack Developer from Azerbaijan</h3>
 
-- 💬 Ask me about **JavaScript,React, Node js**
+- 💬 Ask me about **JavaScript, React, Node.js, C#**
 - 📫 How to reach me **abilovv599@gmail.com**
 
 
